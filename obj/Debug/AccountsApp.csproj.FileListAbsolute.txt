@@ -1,0 +1,10 @@
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\obj\Debug\AccountsApp.csproj.AssemblyReference.cache
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\obj\Debug\AccountsApp.FrmAccounts.resources
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\obj\Debug\AccountsApp.Properties.Resources.resources
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\obj\Debug\AccountsApp.csproj.GenerateResource.cache
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\obj\Debug\AccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\bin\Debug\AccountsApp.exe.config
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\bin\Debug\AccountsApp.exe
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\bin\Debug\AccountsApp.pdb
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\obj\Debug\AccountsApp.exe
+C:\Users\8778t\OneDrive\바탕 화면\Centennial College - AI Program\Semester 2\Programming 2\W14\AccountsApp\obj\Debug\AccountsApp.pdb
